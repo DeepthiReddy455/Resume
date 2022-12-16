@@ -1,0 +1,19 @@
+*{
+    font-family: sans-serif;
+}
+
+#row1, #row3 ,#row5,#row7{
+    background-color:darkcyan;
+    color: white;
+    padding: 0px;
+}
+#row2, #row4, #row6, #row8{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#obj-con, #edu-con, #awards-con, #dec-con{
+    border: 2px solid darkcyan;
+}
+ul {
+    list-style-type: none;
+}
